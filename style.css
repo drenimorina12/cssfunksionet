@@ -78,13 +78,13 @@
 
   @keyframes drive {
     0% {
-      top: 0px; left: 50px;
+    left: 50px;
     }
     10% {
-      top: 0px; left: 100px;
+    left: 100px;
     }
     20% {
-      top: 0px; left: 150px;
+    left: 150px;
     }
 
   }
